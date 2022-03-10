@@ -1,6 +1,6 @@
-# :sunny: Acarajé :sunny:
-
-## **Ingredientes**:
+# <center>:sunny: Acarajé :sunny:</center>
+---
+## Ingredientes:
 - 1 kg de feijão fradinho
 
 - 4 cebola picadas
@@ -9,7 +9,7 @@
 
 - Azeite de dendê a gosto
 
-## **Molho**:
+## Molho:
 
 - Pimenta malagueta
 
